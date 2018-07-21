@@ -19,7 +19,7 @@ class JavaMPeak {
 	//main driver
 	public static void main(String[] args) {
 		//local Declarations
-		System.out.println("HelloWorld");
+		int[] = {1,2,3,4,5,6,3,2,1,5};
 	}
 
 	//peakIndexInMountainArray will output the peak which is the ith index
