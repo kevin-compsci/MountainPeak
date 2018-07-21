@@ -1,6 +1,6 @@
 /*
 Kevin Nguyen
-Basic Java program
+Basic Java program to print out ith index which is the peak given an array of integers.
 
 How to run (linux):
 	1.) open command line and cd into directory folder of where this code is
@@ -22,9 +22,8 @@ class JavaMPeak {
 		int[] myList = {1,2,3,4,5,6,3,2,1,5};
 		int result = peakIndexInMountainArray(myList);
 
+		//print out result
 		System.out.println(result);
-
-
 	}
 
 	//peakIndexInMountainArray will output the peak which is the ith index
